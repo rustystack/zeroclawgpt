@@ -1,0 +1,9 @@
+[package]
+name = "zeroclawgpt"
+version = "0.1.0"
+edition = "2021"
+description = "Zero-dependency GPT in pure Rust — faithful port of Karpathy's microGPT.py, ~4,500x faster"
+license = "MIT"
+repository = "https://github.com/rustystack/zeroclawgpt"
+keywords = ["gpt", "transformer", "zero-dependency", "machine-learning"]
+categories = ["science", "algorithms"]
